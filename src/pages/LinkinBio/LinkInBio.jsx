@@ -18,6 +18,9 @@ const LinkInBio = () => {
                 <a href="https://api.whatsapp.com/send?phone=573103737671" target='_blank'  className='w-[90%] h-[65px] bg-white border-4 font-bold text-[20px] flex justify-center items-center cursor-pointer transition ease-in-out duration-300 hover:bg-black hover:text-white hover:border-black '>WhatsApp</a>
                 <a href='https://www.instagram.com/kalcastudio.co/' target='_blank' className='w-[90%] h-[65px] bg-white border-4 font-bold text-[20px] flex justify-center items-center cursor-pointer transition ease-in-out duration-300 hover:bg-black hover:text-white hover:border-black '>Instagram</a>
             </div>
+            <div>
+                
+            </div>
         </div>
     )
 }
