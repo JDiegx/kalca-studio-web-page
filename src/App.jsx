@@ -1,10 +1,14 @@
 import React from "react"
-import LinkInBio from "./pages/LinkinBio/LinkInBio.jsx"
+import { BrowserRouter } from "react-router-dom"
+import Router from "./router/Router.jsx"
+
 
 function App() {
   return (
     <>
-      <LinkInBio />
+      <BrowserRouter>
+        <Router />
+      </BrowserRouter>
     </>
   )
 }
